@@ -4,5 +4,7 @@
 
 int main(int argc, char** argv) {
 	cout<<"mi primer archivo"<<endl;
+	cout<<"realice un cambio"<<endl;
+	cout<<"soy belsy"<<endl;
 	return 0;
 }
